@@ -1,0 +1,41 @@
+.liberty{
+    position: absolute;
+}
+
+.img_1{
+    margin-left: 105px;
+    margin-top: -45px;
+    z-index: 1;
+
+}
+.img_2{
+    margin-top: -155px;
+    z-index: -1;
+}
+.img_4{
+    margin-left: 150px;
+    margin-top: 18px;
+}
+.img_5{
+    margin-top: 4px;
+    margin-left: 50px;
+}
+.img_6{
+    margin-top: 37px;
+    margin-left: 40px;
+}
+.img_7{
+    margin-left: 80px;
+    margin-top: -50px;
+    transform: rotate(10deg);
+    z-index: 2;
+}
+.img_8{
+    margin-top: 97px;
+    z-index: 10;
+    overflow: hidden;
+}
+
+#liberty{
+    transform: scale(0.8);
+}
